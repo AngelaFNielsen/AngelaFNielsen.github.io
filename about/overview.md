@@ -13,9 +13,9 @@ print('Hello, world!')
 ```
 
 
-# Loud 
+# Loudest 
 ## Louder
-### Loudest
+### Loud
 
 - Commodore64
 - Pentium II
@@ -32,6 +32,6 @@ print('Hello, world!')
 
 **Early Adopter** and _Techie_ and `Geek` 
 
-[GeekWire](https://www.geekwire.com/) and ![Seattle](https://unsplash.com/photos/skUTVJi8-jc)
+[GeekWire](https://www.geekwire.com/) is one of my favorite websites for reading tech news and developments. But, I also love life without technology ![Bozeman!](/assets/images/bozeman.jpg "Bozeman")
 
- I'm going for a drive 🚗 to see the lovely **leaves**.
+ I'm going for a drive 🚗 there in the spring to ** fly fish**.
