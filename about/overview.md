@@ -32,6 +32,4 @@ print('Hello, world!')
 
 **Early Adopter** and _Techie_ and `Geek` 
 
-[GeekWire](https://www.geekwire.com/) is one of my favorite websites for reading tech news and developments. But, I also love life without technology ![Bozeman!](bozeman.jpg "Bozeman")
-
- I'm going for a drive 🚗 there in the spring to ** fly fish**.
+[GeekWire](https://www.geekwire.com/) is one of my favorite websites for reading tech news and developments.
