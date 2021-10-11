@@ -8,8 +8,8 @@ Let us begin our adventure here.
 
 ### LinkedIn Profile
 
-If you want to learn more about my professional experience, check out my [LinkedIn profile](https://www.linkedin.com/in/angela-nielsen-a392aa1).
+If you want to learn more about my crusades, escapades, and quests, check out my [LinkedIn profile](https://www.linkedin.com/in/angela-nielsen-a392aa1).
 
 ### Contact
 
-Want to know more about me? [Drop me a line](mailto:angelaf.nielsen@gmail.com).
+Want to chat? No carrier pigeons required. [Drop me a line](mailto:angelaf.nielsen@gmail.com).
