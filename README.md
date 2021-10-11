@@ -6,6 +6,8 @@ My markdown was rusty. But, like a warrior queen from an ancient land of long ag
 
 Let us begin our adventure <a href="toc.html" title="Table of Contents">here</a>.
 
+Let us begin our adventure <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/toc.html" title="Table of Contents">here</a>.
+
 ### LinkedIn Profile
 
 If you want to learn more about my crusades, escapades, and quests, check out my [LinkedIn profile](https://www.linkedin.com/in/angela-nielsen-a392aa1).
