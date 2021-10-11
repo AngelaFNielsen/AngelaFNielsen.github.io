@@ -13,9 +13,9 @@ print('Hello, world!')
 ```
 
 
-# Driving
-## Far
-### Farther Away
+# Loud 
+## Louder
+### Loudest
 
 - Commodore64
 - Pentium II
@@ -34,7 +34,4 @@ print('Hello, world!')
 
 [GeekWire](https://www.geekwire.com/) and ![Seattle](https://unsplash.com/photos/skUTVJi8-jc)
 
- I've finally gone camping! :tent: Be back soon.
-
-
-
+ I'm going for a drive 🚗 to see the lovely **leaves**.
