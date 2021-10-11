@@ -12,4 +12,4 @@ If you want to learn more about my crusades, escapades, and quests, check out my
 
 ### Contact
 
-Want to chat? No carrier pigeons required. Drop me a line: <angelaf.nielsen@gmail.com>.
+Want to chat? No carrier pigeons required. Drop me a line: <angelaf.nielsen@gmail.com>
