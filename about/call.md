@@ -1,8 +1,10 @@
 API: Call
 =================
 
-#### Purpose: The Call API lets you lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum.
-#### Audience: This documentation is designed for people familiar with Python. If you are not familiar with Python, you can find many Python tutorials available online.
+#### Purpose 
+The Call API lets you lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum.
+#### Audience 
+This documentation is designed for people familiar with Python. If you are not familiar with Python, you can find many Python tutorials available online.
 
 ```
 find_champion.
