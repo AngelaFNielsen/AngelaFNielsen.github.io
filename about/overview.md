@@ -13,13 +13,13 @@ print('Hello, world!')
 ```
 
 
-# Zoom
-## Zooming in
-### Zooming in more
+# Driving
+## Far
+### Farther Away
 
-- Binoculars
-- Monoculars
-- Telescopes
+- Commodore64
+- Pentium II
+- Mac
 
 1. Firefox
 2. Google Chrome
@@ -32,7 +32,7 @@ print('Hello, world!')
 
 **Early Adopter** and _Techie_ and `Geek` 
 
-[Link](url) and ![Image](src)
+[GeekWire](https://www.geekwire.com/) and ![Seattle](https://unsplash.com/photos/skUTVJi8-jc)
 
 
 
