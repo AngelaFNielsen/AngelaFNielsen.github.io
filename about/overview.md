@@ -2,7 +2,7 @@
 
 This is a sample page to show you how I can use markdown.
 
-### Markdown
+### Hello, world!
 
 This phrase never gets old... 
 
@@ -13,28 +13,27 @@ print('Hello, world!')
 ```
 
 
-# Header 1
-## Header 2
-### Header 3
+# Zoom
+## Zooming in
+### Zooming in more
 
-- Bulleted
-- List
+- Binoculars
+- Monoculars
+- Telescopes
 
-1. Numbered
-2. List
+1. Firefox
+2. Google Chrome
+3. Microsoft Edge
+4. Mosaic
+5. Mozilla
+6. Netscape Navigator
+7. Opera
+8. Safari
 
-**Bold** and _Italic_ and `Code` text
+**Early Adopter** and _Techie_ and `Geek` 
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
