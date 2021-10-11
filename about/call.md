@@ -4,7 +4,7 @@ API: Call
 #### Purpose 
 The Call API lets you lorem ipsum lorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsumlorem ipsum.
 #### Audience 
-This documentation is designed for people familiar with Python. If you are not familiar with Python, you can find many Python tutorials available  <a href="https://towardsdatascience.com/how-to-use-riot-api-with-python-b93be82dbbd6" title="Riot Games API How To">code</a>.
+This documentation is designed for people familiar with Python. If you are not familiar with Python, you can find many Python tutorials available  <a href="https://towardsdatascience.com/how-to-use-riot-api-with-python-b93be82dbbd6" title="Riot Games API How To">here</a>.
 
 ```
 find_champion.
