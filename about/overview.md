@@ -33,3 +33,8 @@ print('Hello, world!')
 **Early Adopter** and _Techie_ and `Geek` 
 
 [GeekWire](https://www.geekwire.com/) is one of my favorite websites for reading tech news and developments.
+
+#### Recommended Reading
+- <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/about/overview.md" title="Support">Overview</a>
+- <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/about/call.md" title="API: Call">API: Call</a>
+- <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/about/support.md" title="Support">Support</a>
