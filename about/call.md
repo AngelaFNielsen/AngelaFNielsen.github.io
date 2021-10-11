@@ -3,7 +3,7 @@ API: Call
 
 ##Purpose:
 
-'Code'
+```
 find_champion.
 
 champion_data = [
@@ -48,3 +48,4 @@ def find_champion(name=None, role=None, origin=None):
        continue
    champion_suggestions.append(champ)
  return champion_suggestions
+```
