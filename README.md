@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Want to know more about me? [Drop me a line](mailto:angelaf.nielsen@gmail.com)
+Want to know more about me? [Drop me a line](mailto:angelaf.nielsen@gmail.com).
