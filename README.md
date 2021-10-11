@@ -6,7 +6,7 @@ My markdown was rusty. But, like a warrior queen from an ancient land of long ag
 
 Let us begin our adventure <a href="toc.html" title="Table of Contents">here</a>.
 
-Let us begin our adventure <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/toc.html" title="Table of Contents">here</a>.
+Let us begin our adventure <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/about/overview.md" title="Table of Contents">here</a>.
 
 ### LinkedIn Profile
 
