@@ -1,6 +1,8 @@
 ## Welcome to my Riot Games exercise
 
-You can use the [editor on GitHub](https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You asked. I hope I deliver.
+
+If you want to know more aboutYou can use the [editor on GitHub](https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -28,9 +30,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### LinkedIn Profile
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you want to learn more about my professional experience, check out my [LinkedIn profile](https://www.linkedin.com/in/angela-nielsen-a392aa1). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
