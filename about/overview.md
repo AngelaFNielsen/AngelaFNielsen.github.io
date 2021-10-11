@@ -34,6 +34,7 @@ print('Hello, world!')
 
 [GeekWire](https://www.geekwire.com/) and ![Seattle](https://unsplash.com/photos/skUTVJi8-jc)
 
+ I've finally gone camping! :tent: Be back soon.
 
 
 
