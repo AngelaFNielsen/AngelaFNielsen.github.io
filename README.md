@@ -2,7 +2,7 @@
 
 You asked. I hope I deliver.
 
-My markdown was rusty. But, like a warrior queen from an ancient land of long ago who put away her sword that she would only yield when her king demanded, I broke open the war chest and reacquainted myself with a language developed (and learned) long ago. Only Johannes Gutenberg would turn up his nose at the written word forged with bits on an electronic page. 
+My markdown was rusty. But, like a warrior queen from an ancient land of long ago who put away the sword she would only yield when her king demanded, I broke open the war chest and reacquainted myself with a language developed (and learned) long ago. Only Johannes Gutenberg would turn up his nose at the written word forged with bits on an electronic page. 
 
 Let us begin our adventure here.
 
