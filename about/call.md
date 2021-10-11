@@ -57,5 +57,4 @@ Test your <a href="https://extendsclass.com/python.html" title="Python Tester">c
 
 #### Recommended Reading
 - <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/about/overview.md" title="Support">Overview</a>
-- <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/about/call.md" title="API: Call">API: Call</a>
 - <a href="https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/blob/main/about/support.md" title="Support">Support</a>
