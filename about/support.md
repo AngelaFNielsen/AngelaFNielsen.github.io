@@ -3,9 +3,8 @@ Support
 
 There are a few ways to get a hold of me.
 
-  * <a href="mailto:angelaf.nielsen@gmail.com" title="Email">Email</a>
-  * [General APIs](#apis)
-  * [Overview](#overview) 
+  * **Email**: <angelaf.nielsen@gmail.com>
+  * **Phone** <a href="https://www.youtube.com/watch?v=_II0fc7hgNY" title="Angela">503-270-8346</a>
 
 <em>Non-sequitir...</em>
 
