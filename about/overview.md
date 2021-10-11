@@ -1,15 +1,17 @@
-## Welcome
+## Overview
 
-You can use the [editor on GitHub](https://github.com/AngelaFNielsen/AngelaFNielsen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a sample page to show you how I can use markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This phrase never gets old... 
 
-```markdown
-Syntax highlighted code block
+```
+# This program prints Hello, world!
+
+print('Hello, world!')
+```
+
 
 # Header 1
 ## Header 2
